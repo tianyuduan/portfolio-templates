@@ -2527,7 +2527,7 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
+			/* margin: 0 0 1em 0; */
 			width: 8.25em;
 		}
 
@@ -3130,3 +3130,36 @@
 		font-size: 12px !important;
 		/* border: 2px solid red; */
 	}
+
+.nameJT{
+	margin-top: 2em !important;
+	/* padding-top: 2em !important; */
+	border: 2px solid red;
+	text-align: center;
+}
+
+.inner {
+	text-align: center;
+}
+
+.icons-footer{
+	display: flex;
+	justify-content: space-around;
+	/* border: 2px solid red; */
+	/* margin-right: em; */
+}
+
+.footertext{
+
+margin-right: 6em;
+
+}
+
+.phone {
+	/* border: 2px solid red; */
+	margin-right: 2em;
+}
+
+.center {
+
+}
